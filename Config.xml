@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.jameskittle.farmerrealm"
+    versionCode = "10"
+    version     = "0.0.1" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Farmer Realm</name>
+
+  <description>
+      You want to be a millonaire so you decide to make a farm.
+  </description>
+
+  <author href="https://b-social.ml/James" email="james@b-social.ml">
+      James Kittle
+  </author>
+  
+  <icon src="icon.png"/>
+
+</widget>
